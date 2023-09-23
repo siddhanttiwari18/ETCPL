@@ -38,7 +38,7 @@ hr {
   border: none;
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
-  margin: 0;
+  margin: left;
   padding: top;
 }
 .navbar-default .navbar-brand {
