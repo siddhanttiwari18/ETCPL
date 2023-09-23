@@ -39,7 +39,7 @@ hr {
   -webkit-box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
           box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
   margin: 0;
-  padding: 0;
+  padding: top;
 }
 .navbar-default .navbar-brand {
   color: #212227;
